@@ -1,0 +1,12 @@
+.container{
+    place-items: center;
+    width:300px ;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    margin-left: 10%;
+}

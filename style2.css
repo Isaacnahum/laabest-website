@@ -1,0 +1,59 @@
+body{
+    background-color: #ffffff;
+        }
+
+            .form-control {
+        width: 92%;
+        height: 70px;
+        padding: 6px 12px;
+        font-size: 18px;
+        background-color: #fff;
+        align-items: center;
+        color: #0000ff;   
+    }
+
+
+    .form-contra {
+        width: 24%;
+        height: 50px;
+        padding: 6px 12px;
+        font-size: 18px;
+        background-color: #fff;
+        border: 4px solid #fff;
+        align-content: center;
+        color: #fff;
+    }
+
+
+    ::placeholder  {
+        font-size: larger;
+    }
+
+
+    .btn-primary {
+        padding: 8px 12px;
+        font-size: 14px;
+        border: 1px solid transparent;
+        border-radius: 4px; 
+        background-color: blue;
+        color: #fff;  
+        float: right; 
+        margin-right: 10%; 
+    }
+    
+
+    input[type=text]{
+        color: blue;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border: #fff;
+    }
+    
+    
+    input[type=text]:focus {
+        border: 1px solid
+    #ffffff;
+    }
+
+    
